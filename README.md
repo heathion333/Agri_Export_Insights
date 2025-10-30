@@ -4,7 +4,7 @@ This mini-project simulates agricultural export data across Bigsky’s product l
 
 ##  Tools Used
 - SQL (Table creation, aggregation queries)
-- Power BI (Visual dashboard)
+- Tableau (Visual dashboard)
 - Sample data includes cocoa, sesame, hibiscus, palm kernel, rice, and more
 
 ##  Dashboard Features

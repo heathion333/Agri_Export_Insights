@@ -22,8 +22,8 @@ This mini-project simulates agricultural export data across Bigsky’s product l
 ##  Portfolio Purpose
 This project supports my interview with Bigsky and demonstrates my ability to turn raw agricultural data into actionable insights using SQL and Power BI.
 
-##  Tableau Dashboard: Agri Export Insights
+##  Tableau Dashboard: Bigsky Crop Performance
 
-This dashboard visualizes Nigerian crop export data by product, region, and farmer performance. Built in Tableau using SQL-backed data.
+This dashboard visualizes Nigerian crop export trends by product and region, highlighting farmer contributions and quality metrics. Built in Tableau using SQL-backed data and designed for recruiter-facing clarity.
 
-🔗 [View the dashboard on Tableau Public]((https://public.tableau.com/app/profile/marcus.wright5122/viz/ProductRegionExportTrends/BigskyCropPerformance))
+🔗 [View the dashboard on Tableau Public](https://public.tableau.com/app/profile/marcus.wright5122/viz/ProductRegionExportTrends/BigskyCropPerformance)
